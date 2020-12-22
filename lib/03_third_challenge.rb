@@ -20,7 +20,6 @@ require 'pry'
       :heroine_friends => []
    }
   }
-binding.pry
 puts epic_tragedy
   
 #end
