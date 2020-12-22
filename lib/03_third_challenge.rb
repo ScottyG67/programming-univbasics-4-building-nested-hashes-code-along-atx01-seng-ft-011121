@@ -1,3 +1,4 @@
+require 'pry'
 #def third_challenge
   epic_tragedy = {
    :montague => {
@@ -19,6 +20,7 @@
       :heroine_friends => []
    }
   }
-
+binding.pry
+puts epic_tragedy
   
 #end
