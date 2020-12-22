@@ -1,5 +1,5 @@
 require 'pry'
-#def third_challenge
+def third_challenge
   epic_tragedy = {
    :montague => {
       :patriarch => {:name =>"Lord Montague", :age =>"53"
@@ -20,6 +20,5 @@ require 'pry'
       :heroine_friends => []
    }
   }
-puts epic_tragedy
   
-#end
+end
